@@ -11,6 +11,10 @@ a comprehensive object.
 
 This project is not made to be used alone, you need to pick your providers handlers corresponding to your project.
 
+## Deprecated
+
+Use `erwane/whep`. https://github.com/Erwane/whep
+
 ## Available providers handlers
 
 | Provider                                | Package                                                       |
